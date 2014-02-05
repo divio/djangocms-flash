@@ -1,6 +1,6 @@
 from django import forms
 
-from models import Flash
+from .models import Flash
 
 
 class FlashForm(forms.ModelForm):
