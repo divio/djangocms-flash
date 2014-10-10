@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
+# Vusheslavov Eduard <vey@live.ru>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: django-cms\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-02-06 14:09+0100\n"
-"PO-Revision-Date: 2014-02-06 13:31+0000\n"
-"Last-Translator: Chive <kim@smuzey.ch>\n"
+"PO-Revision-Date: 2014-09-26 14:20+0000\n"
+"Last-Translator: Vusheslavov Eduard <vey@live.ru>\n"
 "Language-Team: Ukrainian (http://www.transifex.com/projects/p/django-cms/language/uk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,7 +20,7 @@ msgstr ""
 
 #: cms_plugins.py:12
 msgid "Flash"
-msgstr ""
+msgstr "Flash"
 
 #: models.py:14
 msgid "file"
@@ -39,8 +40,8 @@ msgstr "висота"
 
 #: templates/cms/plugins/flash.html:40
 msgid "Missing flash plugin. Please download the latest Adobe Flash Player: "
-msgstr ""
+msgstr "Відсутній flash плагін. Будь ласка, завантажте останню версію програми Adobe Flash Player:"
 
 #: templates/cms/plugins/flash.html:42
 msgid "Get Adobe Flash Player"
-msgstr ""
+msgstr "Отримати Adobe Flash Player"
