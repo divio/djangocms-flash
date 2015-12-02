@@ -2,3 +2,5 @@
 *.pot
 *.pyc
 local_settings.py
+.tox
+djangocms_flash.egg-info
