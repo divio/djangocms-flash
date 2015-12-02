@@ -25,7 +25,11 @@ setup(
     author='Divio AG',
     author_email='info@divio.ch',
     url='https://github.com/divio/djangocms-flash',
-    packages=['djangocms_flash', 'djangocms_flash.migrations', 'djangocms_flash.migrations_django'],
+    packages=[
+        'djangocms_flash',
+        'djangocms_flash.migrations',
+        'djangocms_flash.south_migrations',
+    ],
     license='LICENSE.txt',
     platforms=['OS Independent'],
     classifiers=CLASSIFIERS,
